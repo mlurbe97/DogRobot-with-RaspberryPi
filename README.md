@@ -4,16 +4,6 @@
 
 * Manel Lurbe Sempere (malursem@inf.upv.es)
 
-## **ABSTRACT**
-
-<p align=justify>
-
-</p>
-
-## **PROGRAMS AVAILABLE ON THIS PROJECT**
-
-
-
 ## **DOCUMENTATION AND SET UP**
 
 ### **LEGS CHANNELS**
@@ -84,11 +74,6 @@
 
     ```sudo -H python3 -m pip install adafruit-circuitpython-busdevice adafruit-circuitpython-servokit adafruit-circuitpython-pca9685 PCA9685-driver RPi.GPIO```
 
-### **HARDWARE REQUISITES**
-
-### **SET UP HARDWARE CONNECTIONS**
-
-
 ### **HOW TO USE**
 
 - Set execution permissions:
@@ -97,20 +82,10 @@
 
 - Usage:
 
-     ```python3 program.py music_sheets/music_sheet.txt```
+     ```python3 program.py command```
 
      or:
 
-    ```./program.py music_sheets/music_sheet.txt```
+    ```./program.py program.py command```
 
-**NOTE: Replace "program" with the name of the program you want to execute and "music_sheet" with the name of the song you want to play from the folder "music_sheets".**
-
-- ONLY IN *pianoPlayPi.pay* FOR DUAL HAND EMULATION WITH THREADS:
-
-     ```python3 pianoPlayPi.py music_sheets/music_sheet_hand_1.txt music_sheets/music_sheet_hand_2.txt```
-
-     or:
-
-    ```./pianoPlayPi.py music_sheets/music_sheet_hand_1.txt music_sheets/music_sheet_hand_2.txt```
-
-**NOTE: Music sheets for dual hand simulated piano, as in real life, shouldn't contains the same notes (or piano keys) at the same time, there is no reason to play with two hands the same notes.**
+**NOTE: Replace "program" with the name of the program you want to execute and "command" with the name of command you want to execute.**
