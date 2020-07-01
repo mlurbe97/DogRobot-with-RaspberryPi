@@ -4,6 +4,10 @@
 
 * Manel Lurbe Sempere (malursem@inf.upv.es)
 
+## DEVELOPMENT DEMO
+<br/>
+ [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/3rldzTgfC1g/0.jpg)](https://www.youtube.com/watch?v=3rldzTgfC1g)
+
 ## **DOCUMENTATION AND SET UP**
 
 ### **LEGS CHANNELS**
