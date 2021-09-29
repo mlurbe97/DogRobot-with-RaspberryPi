@@ -90,6 +90,6 @@
 
      or:
 
-    ```./program.py program.py command```
+    ```./program.py command```
 
 **NOTE: Replace "program" with the name of the program you want to execute and "command" with the name of command you want to execute.**
